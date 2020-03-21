@@ -14,6 +14,7 @@ Data based on [JHUSS timeseries](https://github.com/CSSEGISandData/COVID-19/tree
  - Labels for Countries
  - Detailed descriptions for any available location for cases/deaths/recoveries and CFR
  
+ ![Screenshot](Screenshot 2020-03-21 at 13.30.28.png)
  ![Screenshot](https://github.com/georgzoeller/covid_cleaned_data/blob/master/Screenshot%202020-03-21%20at%2004.12.39.png?raw=true)
 
 
