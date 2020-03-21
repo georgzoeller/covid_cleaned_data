@@ -14,7 +14,7 @@ Data based on [JHUSS timeseries](https://github.com/CSSEGISandData/COVID-19/tree
  - Labels for Countries
  - Detailed descriptions for any available location for cases/deaths/recoveries and CFR
  
- [Screenshot 2020-03-21 at 04.12.39.png]
+ ![Screenshot](Screenshot 2020-03-21 at 04.12.39.png)
 
 
 2. /json/jhuss_timeseries.json - Cases/Deaths/Recoveries time-series based on aggregated and cleaned as JSON object 
