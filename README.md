@@ -26,7 +26,7 @@ Transformation:
   - Dropped all 0 case objects
 
 Example:
-`
+```
 [
  {
    "country":"Thailand",
@@ -51,5 +51,5 @@ Example:
    "total_recoveries":42,
    "first_recoveries":"2020-01-25T16:00:00.000Z"
  }
-`
+```
 
