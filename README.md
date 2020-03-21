@@ -23,7 +23,11 @@ Transformation:
   - Forward filled Cases/Deaths/Recoveries per day meaning that cases no longer drop to 0 after they emerged due to lack of updates. This means points no longer disappear.
   - Currently locations are based on the confirmed table. There are inconsistencies in Long/Lat being different in Deaths and Recoveries.
   - Aggregated all 3 original timeseries into one.
-  - Dropped all 0 case objects
+  - Dropped all 0 confirmed objects
+
+Issues: 
+  - Date stamps are a bit clowny yet and may be offset by a few hours from reporting.
+ 
 
 Example:
 ```
